@@ -2,6 +2,28 @@
  "version": 1,
  "items": [
   {
+   "id": "261020-171049pq-japan-way-x-haifa-preview-v",
+   "t": "2026-10-20T14:10:53.993Z",
+   "name": "japan-way-x-haifa-preview-v",
+   "kind": "video",
+   "file": "japan-way-x-haifa-preview-v6.mp4",
+   "sizeKB": 347,
+   "dir": "uploads/261020-171049pq-japan-way-x-haifa-preview-v",
+   "thumb": "uploads/261020-171049pq-japan-way-x-haifa-preview-v/261020-171049pq-japan-way-x-haifa-preview-v.thumb.jpg",
+   "preview": "uploads/261020-171049pq-japan-way-x-haifa-preview-v/261020-171049pq-japan-way-x-haifa-preview-v.original.mp4",
+   "previewType": "video/mp4",
+   "fit": "stretch",
+   "frames": 117,
+   "fps": 15,
+   "links": [
+    {
+     "screen": "idle",
+     "variant": "webp",
+     "pointer": "uploads/261020-171049pq-japan-way-x-haifa-preview-v/idle/261020-171049pq-japan-way-x-haifa-preview-v.json"
+    }
+   ]
+  },
+  {
    "id": "261020-145152xp-japanxhaifa",
    "t": "2026-10-20T11:51:59.047Z",
    "name": "japanxhaifa",
