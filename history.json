@@ -2,6 +2,28 @@
  "version": 1,
  "items": [
   {
+   "id": "261021-110556gy-coffee-menu-480x480-light",
+   "t": "2026-10-21T08:05:57.834Z",
+   "name": "coffee-menu-480x480-light",
+   "kind": "gif",
+   "file": "coffee_menu_480x480_light.gif",
+   "sizeKB": 733,
+   "dir": "uploads/261021-110556gy-coffee-menu-480x480-light",
+   "thumb": "uploads/261021-110556gy-coffee-menu-480x480-light/261021-110556gy-coffee-menu-480x480-light.thumb.jpg",
+   "preview": "uploads/261021-110556gy-coffee-menu-480x480-light/261021-110556gy-coffee-menu-480x480-light.original.gif",
+   "previewType": "image/gif",
+   "fit": "stretch",
+   "frames": 116,
+   "fps": 15,
+   "links": [
+    {
+     "screen": "idle",
+     "variant": "webp",
+     "pointer": "uploads/261021-110556gy-coffee-menu-480x480-light/idle/261021-110556gy-coffee-menu-480x480-light.json"
+    }
+   ]
+  },
+  {
    "id": "261020-225321z2-japan-way-x-israel-railways-preview-v2",
    "t": "2026-10-20T19:53:22.774Z",
    "name": "japan-way-x-israel-railways-preview-v2",
